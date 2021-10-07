@@ -1,6 +1,8 @@
-# Welcome!
+# Hello there!
 
-I hope you are enjoying your visit on my GitHub page. I am quite confused as to how this all works. In time, you might notice some improvements aroudn here--or so I hope. In the meantime, please bear with me as I figure this out. 
+I hope you are enjoying your visit on my GitHub page. 
+I am quite confused about how this all works. In time, you might notice some improvements aroudn here--or so I hope. 
+In the meantime, please bear with me as I figure this out. 
 
 ## Why Open Science Matters
 
