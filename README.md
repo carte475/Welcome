@@ -2,7 +2,7 @@
 
 I hope you are enjoying your visit on my GitHub page.  
 I am quite confused about how this all works.  
-In time, you might notice some improvements aroudn here--or so I hope.   
+In time, you might notice some improvements around here--or so I hope.   
 
 ## Why Open Science Matters
 
