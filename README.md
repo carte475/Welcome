@@ -6,7 +6,7 @@ In time, you might notice some improvements around here--or so I hope.
 
 ## Why Open Science Matters
 
-[Google Scholar](www.scholargoogle.com) says,  
+[Google Scholar](https://scholar.google.com/) says,  
 >"Stand on the shoulders of giants." 
 
 But what are _the shoulders_? Where did they come from? How were they built?  
