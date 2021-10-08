@@ -9,7 +9,7 @@ In time, you might notice some improvements around here--or so I hope.
 [Google Scholar](www.scholargoogle.com) says,  
 >"Stand on the shoulders of giants." 
 
-But what are _the shoulders_, where did they come from, and how were they built?  
+But what are _the shoulders_? Where did they come from? How were they built?  
 
 These are some of the questions that continue to drive my passion for Open Science. In an effort to make these areas of inquiry more transparent in my own research, I have created a GitHub account. This will host  all my available code and data (when permitted). It is a work in progress, so please be patient!  
 
