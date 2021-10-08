@@ -11,7 +11,7 @@ In time, you might notice some improvements around here--or so I hope.
 
 But what are _the shoulders_? Where did they come from? How were they built?  
 
-These are some of the questions that continue to drive my vested interest in Open Science. In an effort to make these areas of inquiry more transparent in my own research, I have created a GitHub account. This will host  all my available code and data (when permitted). It is a work in progress, so please be patient!  
+These are some of the questions that continue to drive my vested interest in Open Science. In an effort to make these gaps of knowledge more transparent in my own research, I have created a GitHub account. This will host  all my available code and data (when permitted). It is a work in progress, so please be patient!  
 
 
 
