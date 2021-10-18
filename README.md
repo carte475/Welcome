@@ -15,4 +15,4 @@ These are some of the questions that continue to drive my vested interest in Ope
 
 
 
-![Enjoy](https://images6.alphacoders.com/909/thumb-1920-909641.png)
+
